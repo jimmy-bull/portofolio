@@ -203,8 +203,7 @@ h6 {
 
 .about_div {
     display              : grid;
-    grid-template-columns: 3fr 2fr;
-    gap                  : 50px;
+   
 }
 
 .about_div_text {}
